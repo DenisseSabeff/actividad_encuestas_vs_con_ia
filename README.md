@@ -1,3 +1,5 @@
+EXPERIENCIA CON CODEIUM --> Me resultó muy útil para comprender mejor cómo manejar los componentes, me proporcionó opciones, funciones, lógicas que aplian mi forma de comprender el codigo y las variables que existen para la funcionalidad del mismo. No solo que agiliza el desarrollo de la aplicacion, sino que tambien nutre a mi visión como programadora, ayuda a ser más efectiva en mi logica logrando un codigo mas eficiente.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

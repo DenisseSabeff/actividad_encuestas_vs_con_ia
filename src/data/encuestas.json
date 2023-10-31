@@ -1,0 +1,36 @@
+[
+    {
+        "categoria": "Satisfaccion",
+        "titulo": "Encuesta de Satisfaccion",
+        "descripcion": "Esta encuesta evalúa tu nivel de satisfacción",
+        "preguntas": [
+            {
+                "id": 1,
+                "pregunta": "¿Cómo calificarías nuestro servicio?",
+                "opciones": ["Excelente", "Bueno", "Regular", "Malo"]
+            },
+            {
+                "id": 2,
+                "pregunta": "¿Recomendarías nuestros productos?",
+                "opciones": ["Sí", "No"]
+            }
+        ]
+    },
+    {
+        "categoria": "Productos",
+        "titulo": "Encuesta de Productos",
+        "descripcion": "Esta encuesta evalúa nuestros productos",
+        "preguntas": [
+            {
+                "id": 3,
+                "pregunta": "¿Cuál de nuestros productos has utilizado?",
+                "opciones": ["Producto A", "Producto B", "Producto C"]
+            },
+            {
+                "id": 4,
+                "pregunta": "¿Cómo calificarías la calidad de nuestros productos?",
+                "opciones": ["Excelente", "Bueno", "Regular", "Malo"]
+            }
+        ]
+    }
+]
